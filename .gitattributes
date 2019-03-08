@@ -1,2 +1,1 @@
-.pdf filter=lfs diff=lfs merge=lfs -text
-Use[[:space:]]a[[:space:]]Cabeça[[:space:]]Java[[:space:]]-[[:space:]]2ª[[:space:]]Edição.pdf filter=lfs diff=lfs merge=lfs -text
+Use[[:space:]]a[[:space:]]Cabeça[[:space:]]Java.pdf filter=lfs diff=lfs merge=lfs -text
